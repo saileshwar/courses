@@ -4,7 +4,8 @@ List of branches
 2.Ece
 3.Eee
 
-
+4.It
+5.Mech
 
 
 
