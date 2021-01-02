@@ -1,3 +1,5 @@
 welcome to MVSR Engineering college
 List of branches
 1.Cse
+2.Ece
+3.Eee
